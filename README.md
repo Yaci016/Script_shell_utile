@@ -4,7 +4,7 @@
 		3-Je vais sur github.com et je crée un repository pour mon projet puis je le clone
 	ca peux sembler simple mais sur le papier c'est plusieur step qui pour moi étais pas tres amusante donc j'ai cherché a optimiser ca.
 
-	Deja grace a (git cli)[https://github.com/cli/cli] de github on peux crée un repository directement de la commande line de notre machine et s'etait ce que je voulais 
+	Deja grace a [git cli]("https://github.com/cli/cli") de github on peux crée un repository directement de la commande line de notre machine et s'etait ce que je voulais 
 		(comme ca je peux automatisé cette ligne hehe)
 	Puis grace a des function bash directement écrite dans notre fichier .bashrc a la racine du dossier ~/ avec un source ~/.bash_profile pour enregistré la modification
 
