@@ -1,4 +1,4 @@
-##Utilité de ces scripts shell :
+## Utilité de ces scripts shell :
 	J'ai remarqué que tres souvent pour crée un nouveau repository sur github je fesais les meme actions :
 		1-Je vais dans le dossier ~/Documents/Github/ 
 		3-Je vais sur github.com et je crée un repository pour mon projet puis je le clone
